@@ -1,0 +1,8 @@
+Users report the following problems:
+
+Typing in the search field is noticeably delayed.
+Selecting one section causes the entire list to re-render.
+Expanding a section occasionally freezes the browser.
+Memory usage increases after repeatedly changing filters.
+Updates arriving from the server sometimes overwrite a reviewer’s local edits.
+The application becomes especially slow when several filters are active.
